@@ -17,6 +17,10 @@ body{
         
         
         }
+#frame{
+    left: 0;
+    
+}
 #tarih{
     right: 0;
     bottom: 0;
