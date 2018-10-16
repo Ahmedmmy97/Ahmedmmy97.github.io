@@ -26,7 +26,7 @@ var about = "My name is <strong>Ahmed Yousef</strong>. I'm an Egyptian citizen. 
            initMap();
      };
 var cvFunction = function(){
-     document.getElementById("p1").innerHTML = '<iframe id="serviceFrameSend" src="cv.html" width="100%" height="500"  frameborder="0">'
+     document.getElementById("p1").innerHTML = '<iframe id="serviceFrameSend" src="cv.html" width="1000" height="500"  frameborder="0">'
 }
 function initMap() {
   // The location of Uluru
