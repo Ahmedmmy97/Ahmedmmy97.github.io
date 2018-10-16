@@ -17,6 +17,12 @@ body{
         
         
         }
+#tarih{
+    right: 0;
+    bottom: 0;
+    position: fixed;
+    color: white;
+}
         #p1 a{
             color: 
         }
